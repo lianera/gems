@@ -1,0 +1,8 @@
+*.avi
+*.ply
+*.swp
+tmp/
+*.mp4
+Debug/
+Release/
+

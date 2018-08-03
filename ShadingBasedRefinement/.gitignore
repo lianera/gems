@@ -1,0 +1,9 @@
+*.asv
+*.mat
+*.swp
+*.png
+*.jpg
+*.blend*
+*.hdr
+*.ply
+data/
