@@ -5,4 +5,5 @@ tmp/
 *.mp4
 Debug/
 Release/
-
+*.exe
+*.o

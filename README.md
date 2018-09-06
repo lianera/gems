@@ -1,4 +1,5 @@
 Gems
 =======
 
-Some algorithms
+> What I cannot create, I do not understand
+> - Richard Feynman
