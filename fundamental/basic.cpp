@@ -8,17 +8,17 @@ using std::cout;
 using std::endl;
 
 template<typename T>
+static constexpr T inf()
+{
+	return numeric_limits<T>::max();
+}
+
+template<typename T>
 static void swap(T& a, T& b)
 {
 	T t = a;
 	a = b;
 	b = t;
-}
-
-template<typename T>
-static constexpr T inf()
-{
-	return numeric_limits<T>::max();
 }
 
 template<typename T>
